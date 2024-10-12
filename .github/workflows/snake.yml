@@ -1,0 +1,30 @@
+name: Generate Snake Game
+
+# Controla a frequência com que o workflow roda
+on:
+  schedule:
+    # Roda uma vez por dia à meia-noite
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # Permite disparar manualmente no GitHub Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Gera a animação da cobrinha
+      - name: Generate Snake Game from commits
+        uses: Platane/snk@master
+        with:
+          github_user_name: alexandren18  # Substitua por seu nome de usuário
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Faz o push do conteúdo gerado para o repositório
+      - name: Push generated content to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-snake
+          path: dist/github-contribution-grid-snake.svg
