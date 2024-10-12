@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alexandre Nogueira, I'm from Brasília - Brazil and I'm majoring in computer science.</h2>
+<h2 align="left">Hi 👋! My name is Alexandre Lopes, I'm from Brasília - Brazil and I'm majoring in computer science.</h2>
 
 ###
 
