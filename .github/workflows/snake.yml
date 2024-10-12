@@ -1,30 +1,28 @@
 name: Generate Snake Game
 
-# Controla a frequência com que o workflow roda
 on:
   schedule:
-    # Roda uma vez por dia à meia-noite
-    - cron: "0 0 * * *"
-  workflow_dispatch:  # Permite disparar manualmente no GitHub Actions
+    - cron: "0 0 * * *"  # Executa todos os dias à meia-noite
+  workflow_dispatch:  # Permite executar manualmente no GitHub Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      # Checkout do repositório
-      - name: Checkout
+      - name: Checkout do repositório
         uses: actions/checkout@v2
 
-      # Gera a animação da cobrinha
-      - name: Generate Snake Game from commits
+      - name: Gerar a cobra com base nos commits
         uses: Platane/snk@master
         with:
-          github_user_name: alexandren18  # Substitua por seu nome de usuário
+          github_user_name: alexandren18  # Substituí pelo seu nome de usuário
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Faz o push do conteúdo gerado para o repositório
-      - name: Push generated content to GitHub
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-snake
-          path: dist/github-contribution-grid-snake.svg
+      - name: Commit do arquivo gerado
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Atualizar animação da cobrinha"
+          git push
