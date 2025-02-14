@@ -27,10 +27,7 @@
 
 ---
 
-### 📂 Featured Projects
 
-🚧 *Coming soon...*  
-(*Here you can list some of your GitHub projects later!*)
 
 ---
 
