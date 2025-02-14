@@ -29,7 +29,7 @@
 
 
 
----
+
 
 ### 📫 Connect with Me
 
@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/xandiboyboy?igsh=MTA2OHZtaHZiNTdveA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="40" alt="Instagram" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="alexandre.nogueira@sempreceub.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
   </a>
 </div>
