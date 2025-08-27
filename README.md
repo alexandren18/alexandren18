@@ -45,3 +45,6 @@
   </a>
 </div>
 
+### Meu Jogo da Cobrinha
+
+![Snake game on my GitHub profile](https://github.com/SEU_USUARIO/alexandren18/raw/output/github-contribution-grid-snake.svg)
