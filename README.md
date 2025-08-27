@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandren18&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
+<img src="https://raw.githubusercontent.com/alexandren18/alexandren18/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ### 🚀 Technologies & Tools
@@ -46,4 +48,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/alexandren18/alexandren18/output/snake.svg" alt="Snake animation" />
+
