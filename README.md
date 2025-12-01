@@ -1,9 +1,20 @@
-<h2 align="left">Hi 👋! My name is Alexandre Lopes</h2>
+<h2 align="left">Hi 👋! I'm Alexandre Lopes
+🔐 Cybersecurity Enthusiast & Future SOC Analyst
+💻 Computer Science Undergraduate – Brasília, Brazil
 
-💻 I'm from Brasília - Brazil and I'm majoring in Computer Science.  
-🚀 Passionate about technology and programming, always learning new things.  
-🎯 Focused on Python, Java, and Web Development.  
+I’m developing strong skills in:
 
+🛡 SOC Monitoring & Threat Detection
+
+🐧 Linux, Networking & Security Tools (IDS/SIEM)
+
+🐍 Python for automation
+
+☕ Java & Backend fundamentals
+
+🎯 My goal is to work in Cyber Defense, helping organizations detect, analyze, and respond to threats.
+
+📚 Constantly exploring CIS Controls, NIST, Suricata, Wazuh, Wireshark, and secure coding practices.
 ---
 
 ### 📊 GitHub Stats
