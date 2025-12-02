@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Alexandre Lopes
+<h2 align="left">Hi 👋! I'm Alexandre Lopes</h2>
 🔐 Cybersecurity student focused on SOC, monitoring, and incident response.
 💻 Learning Python, Java, Linux, networking, and security tools.
 🚀 Passionate about cyber defense and continuous improvement.
