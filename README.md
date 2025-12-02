@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋! I'm Alexandre Lopes</h2>
-🔐 Cybersecurity student focused on SOC, monitoring, and incident response.
-💻 Learning Python, Java, Linux, networking, and security tools.
+
+🔐 Cybersecurity student focused on SOC, monitoring, and incident response.  
+💻 Learning Python, Java, Linux, networking, and security tools.  
 🚀 Passionate about cyber defense and continuous improvement.
+
+---
 
 ### 📊 GitHub Stats
 
@@ -10,7 +13,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandren18&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/alexandren18/alexandren18/output/snake.svg" alt="Snake animation" />
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alexandren18/alexandren18/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -26,10 +35,6 @@
 
 ---
 
-
-
-
-
 ### 📫 Connect with Me
 
 <div align="left">
@@ -39,7 +44,7 @@
   <a href="https://www.instagram.com/xandiboyboy?igsh=MTA2OHZtaHZiNTdveA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="40" alt="Instagram" />
   </a>
-  <a href="alexandre.nogueira@sempreceub.com" target="_blank">
+  <a href="mailto:alexandre.nogueira@sempreceub.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
   </a>
 </div>
